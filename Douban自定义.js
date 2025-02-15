@@ -25,19 +25,17 @@ function run () {
 		{ html: "解说", href: "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4++" + keyword1},
 		{ html: "在线", href: "https://www.google.com.bz/search?safe=off&q=在线++"+ keyword1},
 		{ html: "online", href: "https://www.google.com.bz/search?safe=off&q=online++"+ keyword2},
-		{ html: "厂长", href: "https://www.czys.pro/daoyongjiekoshibushiyoubing?q=" + keyword1},
 		{ html: "可可", href: "https://www.keke7.app/search?os=pc&k="+ keyword1},
 		{ html: "爱看", href: "https://v.aikanbot.com/search?q="+ keyword1},
 		{ html: "下载", href: "https://www.google.com.bz/search?safe=off&q=下载++"+ keyword1},
-		{ html: "迅雷", href: "https://www.google.com.bz/search?safe=off&q=迅雷++"+ keyword1},  
-		{ html: "BTDIG", href: "https://www.btdig.com/search?order=0&q=" + movieSimpleTitle }, 
+		{ html: "迅雷", href: "https://www.google.com.bz/search?safe=off&q=迅雷++"+ keyword1}，   
 		{ html: "阿里盘搜", href: "https://www.alipansou.com/search?k=" + movieSimpleTitle }, 
 		{ html: "BTsow", href: "https://btsow.motorcycles/search/" + movieSimpleTitle }, 
 		{ html: "电影狗", href: "https://www.dianyinggou.com/so/" + keyword1},
 		{ html: "哔哩", href: "https://search.bilibili.com/all?keyword=" + keyword1},
 
 
-		{ html: "更新脚本", href: "https://greasyfork.org/zh-CN/scripts/440724/versions/new" }, 
+		{ html: "更新脚本", href: "https://raw.githubusercontent.com/shermans/JS/refs/heads/main/Douban%E8%87%AA%E5%AE%9A%E4%B9%89.js" }, 
 
 	];
  
