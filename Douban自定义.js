@@ -7,8 +7,7 @@
 // @include        https://book.douban.com/subject/* 
 // @license MIT
 
-// @downloadURL https://update.greasyfork.org/scripts/440724/Douban%E8%87%AA%E5%AE%9A%E4%B9%89.user.js
-// @updateURL https://update.greasyfork.org/scripts/440724/Douban%E8%87%AA%E5%AE%9A%E4%B9%89.meta.js
+
 // ==/UserScript==
  
 function run () {
