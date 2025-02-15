@@ -34,7 +34,7 @@ function run () {
 		{ html: "哔哩", href: "https://search.bilibili.com/all?keyword=" + keyword1},
 
 
-		{ html: "更新脚本", href: "https://raw.githubusercontent.com/shermans/JS/refs/heads/main/Douban%E8%87%AA%E5%AE%9A%E4%B9%89.js" },
+		{ html: "更新脚本", href: "https://raw.githubusercontent.com/shermans/JS/refs/heads/main/Douban%E8%87%AA%E5%AE%9A%E4%B9%89.user.js" },
 
 	];
 
